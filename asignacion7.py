@@ -1,3 +1,4 @@
+#Inicialmente importamos nuestro archivo asignacion7.py
 import requests
 from pprint import pprint
 
