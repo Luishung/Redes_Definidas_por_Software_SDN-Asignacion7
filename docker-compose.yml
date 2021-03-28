@@ -1,0 +1,9 @@
+version: "3.3"
+services:
+  frontend:
+    image: python-docker
+    volumes:
+      - volmen:/home/node/app
+volumes:
+  volmen:
+    external: true

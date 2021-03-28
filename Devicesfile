@@ -1,0 +1,20 @@
+{
+    "response": [
+        {
+            "Nombre": "Routers",
+            "Estatus": "Reachable"
+        },
+        {
+            "Nombre": "Switches and Hubs",
+            "Estatus": "Reachable"
+        },
+        {
+            "Nombre": "Switches and Hubs",
+            "Estatus": "Reachable"
+        },
+        {
+            "Nombre": "Switches and Hubs",
+            "Estatus": "Reachable"
+        }
+    ]
+}
